@@ -79,3 +79,4 @@ jobs:
             sudo docker pull heyaslan/infra_actions
             #остановка всех контейнеров
             sudo docker run -d -p 5000:5000 heyaslan/infra_actions
+
